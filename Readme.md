@@ -15,5 +15,4 @@ Nope nope nope, no nope nope nope.
     Nope                    nope no         Nope          nope         Nope                         Nope nope no nope no
     Nope                      nope.            Nope no nope            Nope                         Nope no nope nop nope
 
-
-NOPE.
+[Nope.](https://github.com/Keftark/Nope/blob/main/.nope)
